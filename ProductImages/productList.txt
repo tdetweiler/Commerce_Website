@@ -1,0 +1,92 @@
+
+111111
+Light Roasted Java
+Coffee Beans
+9.99
+1 lb of rich flavor Java Coffee beans grown and processed with the regional style of Indonesia. A common
+favorite.
+coffe-beansThumbnail-Java.jpg
+coffee-beans-Java.jpg
+1
+
+
+111112
+Colombian French Roast
+Coffee Beans
+11.99
+1 lb of finely roasted Colombian coffee beans. This blend has a rich, dark flavor with a slightly bitter taste.
+A vert standard pick for a black coffee lover. 
+frenchRoastColombianThumbnail.jpg
+frenchRoastColombian.jpg
+1
+
+111113
+Italian Roast Espresso
+Coffee Beans
+9.99
+1 lb of our heavy, rich, and dark roasted coffee. Italian roast is ideal for a nice espresso to wake you up in
+the morning. Dark coffee beans are "in" right now so this is a great pick to get that dark rich flavor!
+Italian_Roast_Thumbnail.jpg
+Italian_Roast.jpg
+1
+
+111121
+Aluminum Coffee Pot
+Espresso Makers
+19.99
+A Stove-Top coffee pot for your classic brewing of espresso. Stove-Top coffee brewing is the classic Italian
+method of making espresso and gives a higher level of sensory qualities, perfecting the cup of coffee. This
+coffee pot makes on average 6 cups of espresso.
+Aluminium_Coffee_Maker_Thumbnail.jpg
+Aluminium_Coffee_Maker.jpg
+2
+
+111122
+Mr. Coffee coffeemaker
+Espresso makers
+29.99
+A very simple and easy to use programmable coffee maker. Does not take much time to prepare and brews the coffee
+to a very fine taste.
+Mr_Coffee_Maker_Thumbnail.jpg
+Mr_Coffee_Maker.jpg
+3
+
+111123
+Hamilton Beach Two Way Brewer
+Espessor Maker
+79.99
+A high quality coffee brewer that can brew single servings directly into a mug or brew a 12-cup pot to share! 
+This coffee maker is a hit built with durable steel and different brewing options from a basic to premium roast.
+This the Hamilton beach is a go to coffee maker, giving you all the luxuries of a coffee house at home.
+Hamilton_Thumbnail.jpg
+Hamilton.jpg
+10
+
+111211
+14 oz Thermo Ceramic Mug
+Coffee Mugs
+Very standard desk mug. Built with insulated stainless steel that keeps your coffee warm and looks good all at
+the same time. 
+Ceramic_Mug_Thumbnail.jpg
+Ceramic_Mug.jpg
+1
+
+111212
+16-ounce Contigo travel mug
+Coffee mug
+A very durable and popular travel mug. Contigo's tumbler is an insulated stainless steel design with a no-spill
+designed top. Keeps your coffee hot, easy to hold, and looks good all at the same time.
+Contigo_Mug_Thumbnail.jpg
+Contigo_Mug.jpg
+1
+
+111213
+16-ounce Reusable To-Go-Mug
+Coffee mug
+The copco reusable travel mug is created to replace your average paper and styrofoam coffee cups. Built in the
+same design as normal paper coffe cups, the copco is built from BPA-free plastic with a non-slip sleeve. With
+some insulation this coffee mug is supposed to act like a normal coffe cup but instead be environmentally friendly.
+Copco_Mug_Thumbnail.jpg
+Copco_Mug.jpg
+1
+
